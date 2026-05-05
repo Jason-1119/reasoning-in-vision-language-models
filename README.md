@@ -34,3 +34,12 @@ Vision Projector
 Language Model (GPT-2)
   ↓
 Generated Reasoning + Answer
+
+## 📊 Results
+
+### Prompt Accuracy Comparison
+
+| Prompt Type | Accuracy |
+|------------|--------|
+| Plain Prompt | 0.710 |
+| CoT Prompt | **0.870** |
