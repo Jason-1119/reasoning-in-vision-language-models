@@ -34,7 +34,7 @@ Vision Projector
 Language Model (GPT-2)
   ↓
 Generated Reasoning + Answer
-
+```
 ## 📊 Results
 
 ### Prompt Accuracy Comparison
