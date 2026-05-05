@@ -35,7 +35,7 @@ Language Model (GPT-2)
   ↓
 Generated Reasoning + Answer
 ```
-## 📊 Results
+## Results
 
 ### Prompt Accuracy Comparison
 
