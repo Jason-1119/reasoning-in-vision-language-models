@@ -43,3 +43,7 @@ Generated Reasoning + Answer
 |------------|--------|
 | Plain Prompt | 0.710 |
 | CoT Prompt | **0.870** |
+
+> CoT prompting improves accuracy from **71.0% → 87.0%** on A-OKVQA.
+
+---
